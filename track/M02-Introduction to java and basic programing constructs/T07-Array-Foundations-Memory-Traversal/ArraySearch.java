@@ -7,6 +7,7 @@ public class ArraySearch {
             if (ref[i] == key) {
                 found = true;
                 System.out.println("Element found at index: " + i);
+                break;
             }
         }
         if (found) {
