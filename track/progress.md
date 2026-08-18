@@ -8,8 +8,8 @@ Track daily learning progress, wins, and blockers here.
 
 | Day | Date | Topics Covered | Status | Notes |
 |-----|------|----------------|--------|-------|
-| 01  |      |                | ⬜ Pending | |
-| 02  |      |                | ⬜ Pending | |
+| 01  |      |                | ⬜ ✅ Done | |
+| 02  |      |                | ⬜ ✅ Done | |
 | 03  |      |                | ⬜ Pending | |
 | 04  |      |                | ⬜ Pending | |
 | 05  |      |                | ⬜ Pending | |
